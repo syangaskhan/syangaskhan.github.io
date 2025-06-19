@@ -20,7 +20,7 @@ author: Stephanie Y. Yang
 ###############################################
 
 navbar-links:
-  About Me: ""
+  About Me: "index"
   Writing: "writing"
   News: "news"
   # Writing:
