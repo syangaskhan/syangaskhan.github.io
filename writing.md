@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Writing
-subtitle: 
-use-site-title: false
 ---
 ------------------------------
 
