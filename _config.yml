@@ -22,7 +22,7 @@ author: Stephanie Y. Yang
 navbar-links:
   Home: "index"
   Writing: "writing"
-  News: "news"
+  Posts: "posts"
   # Writing:
   #   - Strak's Stories: "https://beautifuljekyll.com"
   #   - 42 Short Stories Inspired by Internet Strangers: "https://www.markdowntutorial.com/"
