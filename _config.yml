@@ -23,6 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Writing: "writing"
   News: "news"
+  # Writing:
+  #   - Strak's Stories: "https://beautifuljekyll.com"
+  #   - 42 Short Stories Inspired by Internet Strangers: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
