@@ -21,12 +21,12 @@ author: Stephanie Y. Yang
 
 navbar-links:
   About Me: "aboutme"
-  Writing: "writing"
+  Writing: "writing":
   News: "news"
-  Posts: "posts"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  # Posts: "posts"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
