@@ -1,16 +1,11 @@
 ---
 layout: page
-title: News
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: 
+use-site-title: false
 ---
+------------------------------
 
-My name is Inigo Montoya. I have the following qualities:
+![Stephanie](img/avatar.png)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Stephanie Y. Yang is a scientist who dabbles in writing, puzzle design, and other hobbies. She recently published her first novella, Strak’s Bad Day.
