@@ -1,12 +1,7 @@
 ---
 layout: post
-title: Making a website!
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
-mathjax: true
+subtitle: Making a website!
+tags: [website]
 author: Stephanie Y. Yang
 ---
 
