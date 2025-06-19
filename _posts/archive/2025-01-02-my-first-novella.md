@@ -1,7 +1,6 @@
 ---
 layout: post
-subtitle: My first novella!
-tags: [strak] [writing]
+title: My first novella!
 author: Stephanie Y. Yang
 ---
 

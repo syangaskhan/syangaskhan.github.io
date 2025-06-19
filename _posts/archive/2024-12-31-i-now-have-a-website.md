@@ -1,7 +1,6 @@
 ---
 layout: post
-subtitle: I now have a website!
-tags: [website]
+title: I now have a website!
 author: Stephanie Y. Yang
 ---
 
