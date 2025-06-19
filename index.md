@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: About Me
 subtitle: 
 use-site-title: false
 ---
