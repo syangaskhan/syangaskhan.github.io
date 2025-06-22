@@ -8,7 +8,7 @@ I am a slow writer.
 
 Sometimes, when I do 20-minute writing sprints with my writing friends, at the end, some folks will have 1,000 words written, while all I've gotten to is a measly 200. It's easy to feel like I'm behind, like I'm not writing quickly enough. Hell, it took me three years to write a 20,000 word novella. Some people write full novels in that time span. Some even write _multiple_ novels. 
 
-Then I stop and remind myself: I've had other accomplishments during those three years. I earned my PhD. Got my first industry job. Moved to a new city. Worked in physical therapy for over a year to rehab a two-year long injury. Wrote not one, not two, not three, but _four_ PuzzledPint sets. 
+Then I stop and remind myself: I've had other accomplishments during those three years. I earned my PhD. Got my first industry job. Moved to a new city. Worked in physical therapy for two full years to rehab a chronic injury. Wrote not one, not two, not three, but _four_ PuzzledPint sets. 
 
 Part of the reason why I'm slow is because I have so many varied interests. After all, trying new hobbies is my favorite hobby. And I believe that though it makes me slower (less time for writing), it also makes my stories better, adding new experiences and new perspectives to my worldview.
 
