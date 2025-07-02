@@ -14,9 +14,9 @@ Why is that, you might ask?
 
 Let's talk about moving goalposts.
 
-When I was younger, I wrote a lot for fun. The only people who ever read my stories were...well, me. (And thank goodness for that, I produced a lot of complete garbage). During that time, my main thought was as follows: "I'll be a _real_ writer if other people read my work!" 
+When I was younger, I wrote a lot, just for fun. The only people who ever read my stories were...well, me. (And thank goodness for that, I produced a lot of complete garbage). During that time, my main thought was as follows: "I'll be a _real_ writer when other people read my work!" 
 
-Then came middle school, where I discovered the beautiful world of fanfiction. I _devoured_ fics, and pretty soon, I found myself writing my own. For a time, I was part of the lovely Fire Emblem fanfic community, and people were reading my work. But then I pushed the goalposts back: I would only be a _real_ writer when people read my original work. _Not_ fanfic.
+Then came middle school, where I discovered the beautiful world of fanfiction. I _devoured_ fics, and pretty soon, I found myself writing my own. For a time, I was part of the lovely Fire Emblem fanfic community, and people were reading my work. But then I pushed the goalposts out just a little more: I would only be a _real_ writer when people read my original work. _Not_ fanfic.
 
 I wrote a few pieces of original fiction in college, however, nothing I was proud enough to show to other people. But once I'd graduated, I began participating in the (/r/WritingPrompts)[https://www.reddit.com/r/WritingPrompts/] subreddit - a truly incredible community, with supportive and encouraging redditors. At this point, people were reading work - _my_ original work. Still, that wasn't enough for me.
 
