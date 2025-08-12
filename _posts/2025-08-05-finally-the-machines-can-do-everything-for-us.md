@@ -4,7 +4,7 @@ title: Finally, the Machines Can Do Everything For Us
 author: Stephanie Y. Yang
 ---
 
-A couple weeks ago, I went to a reading by Raphael Bob-Waksberg. I was looking for things to do in the Cambridge area, and I saw that he was going to be reading some short stories from his collection, _Someone Who Will Love You in All Your Damaged Glory_ at Harvard Square bookstore on Friday 18 July. 
+A couple weeks ago, I went to a reading by Raphael Bob-Waksberg. I was looking for things to do in the Cambridge area, and saw that he was going to be reading some short stories from his collection, _Someone Who Will Love You in All Your Damaged Glory_, at Harvard Square bookstore on Friday 18 July. 
 
 I'd never seen Bojack Horseman before, but some of my former roommates absolutely *loved* the show. And after reading through the Amazon preview of the book, I was hooked - the stories were hilarious and also strikingly poignant at the same time. 
 

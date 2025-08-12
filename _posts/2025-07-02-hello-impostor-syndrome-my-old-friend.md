@@ -8,7 +8,7 @@ As a former PhD student trained in the trenches of academia, I have a complicate
 
 So, of course, it only makes sense that impostor syndrome would stretch its horrible grasping tentacles into my hobbies as well.
 
-Here's a confession: I've never considered myself a writer. Even now, you'll notice that in the "About Me" section, I'm a "person who dabbles in writing", not a "writer". (Or maybe by the time you're reading this, I've mustered the guts to change the About Me to say that I _am_ a writer; one can hope!)
+Here's a confession: I've never considered myself a writer. Even now, you'll notice that in the "About Me" section, I'm a "person who dabbles in writing", not a "writer". (Or maybe, by the time you're reading this, I've mustered the guts to change the About Me to say that I _am_ a writer; one can hope!)
 
 Why is that, you might ask? 
 
@@ -24,7 +24,7 @@ I would only be a _real_ writer if I could get paid while doing it.
 
 After finishing graduate school, I tackled this hurdle. Thanks to a heads-up from a friend, I got a cool gig with a company, developing their existing projects and IP. But the project I worked on was cancelled before it was published, and that gave me an out and a new obstacle: publishing. I would only be a _real_ writer if I was published.
 
-I've finally cleared that hurdle with self-publishing my first novella. But I still don't _feel_ like a writer. I still haven't been traditionally published. I still haven't written a full-length novel (or at least, one that's intelligible - my Nanowrimo projects are shoved into a dusty, dark, corner of my computer, and I'm too frightened to touch them). 
+I've finally cleared that hurdle with self-publishing my first novella. But I still don't _feel_ like a writer. I still haven't been traditionally published. I still haven't written a full-length novel (or at least, one that's intelligible - my Nanowrimo projects are shoved into a dusty, dark, corner of my computer, and I'm too frightened to look at them). 
 
 But at this point, I've realized that there will _always_ be that insidious voice in the back of my head, listing out all the reasons why I'm not a _real_ writer yet. And when I've been more vocal about it, my friends and family, have been amazing in helping me tell that voice to go shove it.
 
