@@ -12,11 +12,13 @@ Bob-Waksberg absolutely did not disappoint. He was extremely charismatic in pers
 
 After the event, I bought one of his books and made a line buddy while waiting in line to get it signed; we geeked out about R.F. Kuang, Cuphead, and Hollow Knight. I was impressed at how Bob-Waksberg made an effort to have a conversation with every single person in line; at some of the other signings I've been to, the author just gives a quick "hello", signs the book, then moves on. 
 
-Of course, whenever someone cool who I don't know very well talks to me, my brain absolutely short-circuits. "Perhaps", it thinks to itself, "if I speak as few words as possible, I will minimize my chances of sounding stupid." Which, unfortunately, has the side effect of making me seem standoffish and unsociable. During our conversation, he asked me what I did for work, what brought me to Boston, how I found out about the event, etc. When he learned that I worked in a computational field, he asked me if I was worried about AI taking over. 
+Of course, whenever someone cool who I don't know very well talks to me, my brain absolutely short-circuits. "Perhaps", it thinks to itself, "if I speak as few words as possible, I will minimize my chances of sounding stupid." Which, unfortunately, has the side effect of making me seem standoffish and unsociable. So hopefully he didn't think I was /too/ socially awkward, hahaha.
+
+During our very one-sided conversation, he asked me what I did for work, what brought me to Boston, how I found out about the event, etc. When he learned that I worked in a computational field, he asked me if I was worried about AI taking over. 
 
 "A little," I said. And then, after a bit of hesitation, I truthfully amended my answer: "A lot."
 
-Once I got home, ideas about AI kept turning around my head. About machines making our lives easy, about the value of effort, about the process of learning. And that inspired this little piece of writing. Originally, I thought I'd share it with Bob-Waksberg, but he seems like he has absolutely zero social media and a cursory internet search revealed no easy way to contact him, which, respect. Social media makes me super anxious and weird, so I get it. Since I can't reach him, instead, I'm going to yell it into the infinite void of the internet. To whoever who you are, if you're reading this - I hope it resonates with you.
+Once I got home, ideas about AI kept turning around my head. About machines making our lives easy, about the value of effort, about the process of learning. And that inspired this little piece of writing. Originally, I thought I'd share it with Bob-Waksberg, but he seems like he has absolutely zero social media and a cursory internet search revealed no easy way to contact him, which, respect. Social media makes me super anxious and weird, so I get it. Since I can't reach him, instead, I'm going to yell it into the infinite void of the internet. To whoever you are, if you're reading this - I hope it resonates with you.
 
 ---
 
