@@ -4,7 +4,7 @@ title: My first novella!
 author: Stephanie Y. Yang
 ---
 
-After about three and a half years of writing, I've finally self-published my first novella, Strak's Bad Day! In this post, I thought I'd reflect on the journey and what I've learned through the process. 
+After about three and a half years of writing, I've finally self-published my first novella, [Strak's Bad Day](https://www.amazon.com/dp/B0D2S7KL94?dplnkId=d033ee90-d709-4d1a-be8a-c59a8388a4c8)! In this post, I thought I'd reflect on the journey and what I've learned through the process. 
 
 ## Where did the idea come from?
 

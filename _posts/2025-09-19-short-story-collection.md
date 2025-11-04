@@ -5,7 +5,7 @@ author: Stephanie Y. Yang
 ---
 It's been a goal of mine for about two years, now: to create a curated short story collection from all the prompts that I've responded to on /r/WritingPrompts. I've been writing on that subreddit for almost ten years, which is wild! Time really flies. 
 
-After years of hemming and hawing and trying to pick out my favorite prompt responses, _42 Stories Inspired By Internet Strangers_ is finally complete!
+After years of hemming and hawing and trying to pick out my favorite prompt responses, [_42 Stories Inspired By Internet Strangers_](https://www.amazon.com/dp/B0FJJ8T1HQ) is finally complete!
 
 I've learned a lot through the years. My writing has definitely improved - it's cool to see you how my characters have become more vivid, how my dialogue has gotten snappier. I feel like you can even tell when I started reading the Discworld series - as I started integrating humor more and more into my stories. I really wish I'd known about Terry Pratchett when I was younger, but I didn't start reading his stories til I in my late twenties! Better late than never, I suppose.
 
