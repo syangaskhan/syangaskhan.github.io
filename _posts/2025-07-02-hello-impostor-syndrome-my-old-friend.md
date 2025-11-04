@@ -18,7 +18,7 @@ When I was younger, I wrote a lot, just for fun. The only people who ever read m
 
 Then came middle school, where I discovered the beautiful world of fanfiction. I _devoured_ fics, and pretty soon, I found myself writing my own. For a time, I was part of the lovely Fire Emblem fanfic community, and people were reading my work. But then I pushed the goalposts out just a little more: I would only be a _real_ writer when people read my original work. _Not_ fanfic.
 
-I wrote a few pieces of original fiction in college, however, nothing I was proud enough to show to other people. But once I'd graduated, I began participating in the (/r/WritingPrompts)[https://www.reddit.com/r/WritingPrompts/] subreddit - a truly incredible community, with supportive and encouraging redditors. At this point, people were reading work - _my_ original work. Still, that wasn't enough for me.
+I wrote a few pieces of original fiction in college, however, nothing I was proud enough to show to other people. But once I'd graduated, I began participating in the [/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/) subreddit - a truly incredible community, with supportive and encouraging redditors. At this point, people were reading work - _my_ original work. Still, that wasn't enough for me.
 
 I would only be a _real_ writer if I could get paid while doing it. 
 
