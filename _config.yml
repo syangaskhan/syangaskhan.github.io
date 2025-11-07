@@ -21,6 +21,7 @@ author: Stephanie Y. Yang
 
 navbar-links:
   # Home: "index"
+  About: "index"
   Writing: "writing"
   Posts: "posts"
   # Writing:
