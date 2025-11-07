@@ -13,11 +13,3 @@ As an avid reader of fantasy and sci-fi since childhood, I love getting lost in 
 
 <a href='https://www.amazon.com/Short-Stories-Inspired-Internet-Strangers-ebook/dp/B0FJJ8T1HQ?ref_=ast_author_dp'><img src="/assets/img/ShortStories.png" alt="42 Short Stories Inspired by Internet Strangers" style="width:100px;" align="left" hspace="20"/></a>A compilation of my short stories! The stories in this collection span ten years of writing for the /r/WritingPrompts subreddit. It’s available as an eBook on [Amazon](https://www.amazon.com/dp/B0FJJ8T1HQ) and [Kobo](https://www.kobo.com/us/en/ebook/42-short-stories-inspired-by-internet-strangers).
 
-
-Also, Spotify recently acquired the audio rights to Strak's Bad Day, and produced an awesome audiobook! You can listen to it here:
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/0B0vMrunhawfemrHOdaIht?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
-
-
-
