@@ -54,7 +54,7 @@ round-avatar: true
 social-network-links:
   email: "stephanie@stephanieyyang.com"
 #  reddit: r/TheBasiliskWrites
-#  bluesky: syangaskhan.bsky.social
+  bluesky: syangaskhan.bsky.social
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
 # github: daattali
