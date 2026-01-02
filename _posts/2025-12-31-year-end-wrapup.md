@@ -40,7 +40,6 @@ All in all, not too bad. I'm going to try and keep it up next year!
 
 ### Challenges:
 [ ] social media sundays - only check social media on sundays\
-[ ] no-buy november - don't buy things in november\
 [ ] flip phone february - <2 hr phone usage per day\
 [ ] try something new every month
 
