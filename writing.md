@@ -16,4 +16,4 @@ As an avid reader of fantasy and sci-fi since childhood, I love getting lost in 
 <br>
 <br>
 
-<a href='https://www.amazon.com/Short-Stories-Inspired-Internet-Strangers-ebook/dp/B0FJJ8T1HQ?ref_=ast_author_dp'><img src="/assets/img/ShortStories.png" alt="42 Short Stories Inspired by Internet Strangers" style="width:100px;" align="left" hspace="20"/></a>My short story, [The Case of the Missing Crystal Ball](https://www.loreleisignal.com/case-of-the-missing-crystal-ball) was recently published in The Lorelei Signal! It's a cozy little fantasy mystery that has as many tea puns as I could squeeze into it. 
+<a href='https://www.loreleisignal.com/case-of-the-missing-crystal-ball'><img src="/assets/img/MissingBall.png" alt="The Case of the Missing Crystal Ball" style="width:100px;" align="left" hspace="20"/></a>My short story, [The Case of the Missing Crystal Ball](https://www.loreleisignal.com/case-of-the-missing-crystal-ball) was recently published in The Lorelei Signal! It's a cozy little fantasy mystery that has as many tea puns as I could squeeze into it. 
