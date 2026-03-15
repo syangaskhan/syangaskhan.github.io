@@ -11,13 +11,13 @@ My family likes to spend time setting New Year's Resolutions and doing sort of a
 ### Goals:
 [x] be able to do a single chin-up\
 [x] run a 5k\
-[x] write a short story\
+[x] write a short story
 
 ### Habits:
 [ ] meatless mondays [was good at the beginning of the year and forgot during the summer]\
 [ ] tech-free tuesdays [forgot about this entirely]\
 [-] daily meditation [kept falling off the wagon]\
-[-] daily gratitude journal (>300) [only did 238]\
+[-] daily gratitude journal (>300) [only did 238]
 
 ### Challenges:
 [x] flip-phone february (<2hr usage per day)\
