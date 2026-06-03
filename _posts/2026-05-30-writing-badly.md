@@ -22,4 +22,4 @@ But regardless of the reason, there's only one real way for me to get better at 
 
 And it's always a good time to remind myself this: it's okay if it's bad. It's okay if it's not original. It's okay if the characters are clunky, if the dialogue is forced, if the worldbuilding doesn't make sense. And it's okay if nobody else ever reads it.
 
-It's about the process, and about the effort that goes into it. And that will be enough. 
+It's about the process, and about the effort that goes into it. And I need to remind myself: the work is its own reward.
