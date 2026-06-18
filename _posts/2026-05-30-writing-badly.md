@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doing the work
+title: Writing Badly
 author: Stephanie Y. Yang
 ---
 
