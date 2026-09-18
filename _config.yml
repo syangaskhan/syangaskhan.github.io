@@ -23,6 +23,7 @@ navbar-links:
   # Home: "index"
   About: "index"
   Writing: "writing"
+  Puzzles: "puzzles"
   Posts: "posts"
   # Writing:
   #   - Strak's Stories: "https://beautifuljekyll.com"
