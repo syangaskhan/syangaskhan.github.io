@@ -4,7 +4,7 @@ title: Puzzles
 ---
 ------------------------------
 
-I've been designing puzzles for over five years, now! A few of the things I've designed:
+I've been designing puzzles for over five years, now! Here are a few of the things I've created:
 
 ## Index
 
@@ -33,7 +33,8 @@ I’m designing [city scavenger puzzle hunts](https://themassachusettsmysteries.
 
 - I wrote some bonus puzzles for the Boston showing of [The Wedding Party](https://www.secretcityadventures.com/the-wedding-party/boston)!
 - Sometimes, I write puzzles for [Constructed Adventures](https://www.constructedadventures.com/)!
-- I designed a puzzle for the [2025 Cthulhu Luau](https://cthulhu-luau.com/) 🙂
+- I designed a puzzle for the [2025 Cthulhu Luau](https://cthulhu-luau.com/) 
+- For two years, I created a puzzle adventure that led players through the East Baltimore campus of Johns Hopkins.
 
 ## Virtual Escape Rooms
 
